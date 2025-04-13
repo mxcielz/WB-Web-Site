@@ -1,0 +1,164 @@
+[26-Mar-2025 17:00:26 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php:10
+Stack trace:
+#0 /home2/wbmanu23/public_html/admin/curriculum/curriculum.php(10): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'wb')
+#1 {main}
+  thrown in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 10
+[26-Mar-2025 17:07:07 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[26-Mar-2025 17:07:07 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[26-Mar-2025 17:07:07 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[26-Mar-2025 17:21:06 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[26-Mar-2025 17:21:06 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[26-Mar-2025 17:21:06 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[26-Mar-2025 17:21:16 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/visucurriculum.php on line 768
+[26-Mar-2025 17:21:16 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/visucurriculum.php on line 769
+[26-Mar-2025 17:21:16 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/visucurriculum.php on line 770
+[26-Mar-2025 17:21:25 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[26-Mar-2025 17:21:25 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[26-Mar-2025 17:21:25 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[26-Mar-2025 17:21:32 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[26-Mar-2025 17:21:32 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[26-Mar-2025 17:21:32 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[26-Mar-2025 17:21:37 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[26-Mar-2025 17:21:37 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[26-Mar-2025 17:21:37 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[26-Mar-2025 17:27:00 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[26-Mar-2025 17:27:00 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[26-Mar-2025 17:27:00 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[26-Mar-2025 17:27:11 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[26-Mar-2025 17:27:11 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[26-Mar-2025 17:27:11 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[27-Mar-2025 12:56:36 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[27-Mar-2025 12:56:36 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[27-Mar-2025 12:56:36 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[27-Mar-2025 12:56:40 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/visucurriculum.php on line 768
+[27-Mar-2025 12:56:40 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/visucurriculum.php on line 769
+[27-Mar-2025 12:56:40 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/visucurriculum.php on line 770
+[27-Mar-2025 20:35:04 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[27-Mar-2025 20:35:04 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[27-Mar-2025 20:35:04 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[27-Mar-2025 20:35:12 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/visucurriculum.php on line 768
+[27-Mar-2025 20:35:12 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/visucurriculum.php on line 769
+[27-Mar-2025 20:35:12 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/visucurriculum.php on line 770
+[27-Mar-2025 20:38:18 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[27-Mar-2025 20:38:18 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[27-Mar-2025 20:38:18 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[27-Mar-2025 20:38:56 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[27-Mar-2025 20:38:56 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[27-Mar-2025 20:38:56 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 11:07:34 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[02-Apr-2025 11:07:34 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[02-Apr-2025 11:07:34 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 11:08:23 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[02-Apr-2025 11:08:23 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[02-Apr-2025 11:08:23 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 11:21:09 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[02-Apr-2025 11:21:09 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[02-Apr-2025 11:21:09 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 12:11:51 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[02-Apr-2025 12:11:51 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[02-Apr-2025 12:11:51 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 12:28:42 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[02-Apr-2025 12:28:42 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[02-Apr-2025 12:28:42 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 12:41:39 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[02-Apr-2025 12:41:39 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[02-Apr-2025 12:41:39 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 16:05:26 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[02-Apr-2025 16:05:26 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[02-Apr-2025 16:05:26 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 16:05:31 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/visucurriculum.php on line 768
+[02-Apr-2025 16:05:31 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/visucurriculum.php on line 769
+[02-Apr-2025 16:05:31 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/visucurriculum.php on line 770
+[02-Apr-2025 16:05:35 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[02-Apr-2025 16:05:35 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[02-Apr-2025 16:05:35 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 16:15:54 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[02-Apr-2025 16:15:54 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[02-Apr-2025 16:15:54 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 16:16:26 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[02-Apr-2025 16:16:26 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[02-Apr-2025 16:16:26 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 16:20:00 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php:10
+Stack trace:
+#0 /home2/wbmanu23/public_html/admin/curriculum/curriculum.php(10): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'wb')
+#1 {main}
+  thrown in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 10
+[02-Apr-2025 16:20:14 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php:10
+Stack trace:
+#0 /home2/wbmanu23/public_html/admin/curriculum/curriculum.php(10): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'wb')
+#1 {main}
+  thrown in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 10
+[02-Apr-2025 16:20:53 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php:10
+Stack trace:
+#0 /home2/wbmanu23/public_html/admin/curriculum/curriculum.php(10): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'wb')
+#1 {main}
+  thrown in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 10
+[02-Apr-2025 16:21:21 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php:10
+Stack trace:
+#0 /home2/wbmanu23/public_html/admin/curriculum/curriculum.php(10): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'wb')
+#1 {main}
+  thrown in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 10
+[02-Apr-2025 16:21:42 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[02-Apr-2025 16:21:42 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[02-Apr-2025 16:21:42 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 16:22:04 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php:10
+Stack trace:
+#0 /home2/wbmanu23/public_html/admin/curriculum/curriculum.php(10): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'wb')
+#1 {main}
+  thrown in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 10
+[02-Apr-2025 16:22:09 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php:10
+Stack trace:
+#0 /home2/wbmanu23/public_html/admin/curriculum/curriculum.php(10): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'wb')
+#1 {main}
+  thrown in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 10
+[02-Apr-2025 16:22:19 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[02-Apr-2025 16:22:19 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[02-Apr-2025 16:22:19 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 16:24:02 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[02-Apr-2025 16:24:02 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[02-Apr-2025 16:24:02 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 16:27:48 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1104
+[02-Apr-2025 16:27:48 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1105
+[02-Apr-2025 16:27:48 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1106
+[02-Apr-2025 16:28:04 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/visucurriculum.php on line 768
+[02-Apr-2025 16:28:04 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/visucurriculum.php on line 769
+[02-Apr-2025 16:28:04 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/visucurriculum.php on line 770
+[02-Apr-2025 16:28:09 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1104
+[02-Apr-2025 16:28:09 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1105
+[02-Apr-2025 16:28:09 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1106
+[02-Apr-2025 16:28:22 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[02-Apr-2025 16:28:22 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[02-Apr-2025 16:28:22 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 16:28:38 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1099
+[02-Apr-2025 16:28:38 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1100
+[02-Apr-2025 16:28:38 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 16:30:24 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 16:30:24 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1102
+[02-Apr-2025 16:30:24 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1103
+[02-Apr-2025 16:30:54 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 16:30:54 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1102
+[02-Apr-2025 16:30:54 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1103
+[02-Apr-2025 16:31:44 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 16:31:44 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1102
+[02-Apr-2025 16:31:44 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1103
+[02-Apr-2025 16:32:27 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 16:32:27 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1102
+[02-Apr-2025 16:32:27 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1103
+[02-Apr-2025 16:33:02 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 16:33:02 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1102
+[02-Apr-2025 16:33:02 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1103
+[02-Apr-2025 16:33:23 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 16:33:23 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1102
+[02-Apr-2025 16:33:23 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1103
+[02-Apr-2025 16:33:42 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 16:33:42 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1102
+[02-Apr-2025 16:33:42 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1103
+[02-Apr-2025 16:38:10 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[02-Apr-2025 16:38:10 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1102
+[02-Apr-2025 16:38:10 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1103
+[07-Apr-2025 17:20:47 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[07-Apr-2025 17:20:47 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1102
+[07-Apr-2025 17:20:47 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1103
+[07-Apr-2025 17:21:11 America/Fortaleza] PHP Warning:  Undefined variable $completed_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1101
+[07-Apr-2025 17:21:11 America/Fortaleza] PHP Warning:  Undefined variable $in_progress_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1102
+[07-Apr-2025 17:21:11 America/Fortaleza] PHP Warning:  Undefined variable $pending_tasks in /home2/wbmanu23/public_html/admin/curriculum/curriculum.php on line 1103

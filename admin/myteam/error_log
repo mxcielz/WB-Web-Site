@@ -1,0 +1,36 @@
+[26-Mar-2025 17:33:36 America/Fortaleza] PHP Warning:  Undefined array key "cnpj" in /home2/wbmanu23/public_html/admin/myteam/processteam.php on line 20
+[26-Mar-2025 17:33:36 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cnpj' in 'where clause' in /home2/wbmanu23/public_html/admin/myteam/processteam.php:25
+Stack trace:
+#0 /home2/wbmanu23/public_html/admin/myteam/processteam.php(25): mysqli->prepare('SELECT id FROM ...')
+#1 {main}
+  thrown in /home2/wbmanu23/public_html/admin/myteam/processteam.php on line 25
+[02-Apr-2025 11:48:55 America/Fortaleza] PHP Warning:  Undefined array key "cnpj" in /home2/wbmanu23/public_html/admin/myteam/processteam.php on line 20
+[02-Apr-2025 11:48:55 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cnpj' in 'where clause' in /home2/wbmanu23/public_html/admin/myteam/processteam.php:25
+Stack trace:
+#0 /home2/wbmanu23/public_html/admin/myteam/processteam.php(25): mysqli->prepare('SELECT id FROM ...')
+#1 {main}
+  thrown in /home2/wbmanu23/public_html/admin/myteam/processteam.php on line 25
+[02-Apr-2025 11:55:27 America/Fortaleza] PHP Warning:  Undefined array key "cnpj" in /home2/wbmanu23/public_html/admin/myteam/processteam.php on line 20
+[02-Apr-2025 11:55:27 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cnpj' in 'where clause' in /home2/wbmanu23/public_html/admin/myteam/processteam.php:25
+Stack trace:
+#0 /home2/wbmanu23/public_html/admin/myteam/processteam.php(25): mysqli->prepare('SELECT id FROM ...')
+#1 {main}
+  thrown in /home2/wbmanu23/public_html/admin/myteam/processteam.php on line 25
+[02-Apr-2025 12:44:18 America/Fortaleza] PHP Warning:  Undefined array key "cnpj" in /home2/wbmanu23/public_html/admin/myteam/processteam.php on line 20
+[02-Apr-2025 12:44:18 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cnpj' in 'where clause' in /home2/wbmanu23/public_html/admin/myteam/processteam.php:25
+Stack trace:
+#0 /home2/wbmanu23/public_html/admin/myteam/processteam.php(25): mysqli->prepare('SELECT id FROM ...')
+#1 {main}
+  thrown in /home2/wbmanu23/public_html/admin/myteam/processteam.php on line 25
+[02-Apr-2025 12:47:43 America/Fortaleza] PHP Warning:  Undefined array key "cnpj" in /home2/wbmanu23/public_html/admin/myteam/processteam.php on line 20
+[02-Apr-2025 12:47:43 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cnpj' in 'where clause' in /home2/wbmanu23/public_html/admin/myteam/processteam.php:25
+Stack trace:
+#0 /home2/wbmanu23/public_html/admin/myteam/processteam.php(25): mysqli->prepare('SELECT id FROM ...')
+#1 {main}
+  thrown in /home2/wbmanu23/public_html/admin/myteam/processteam.php on line 25
+[08-Apr-2025 11:20:44 America/Fortaleza] PHP Warning:  Undefined array key "cnpj" in /home2/wbmanu23/public_html/admin/myteam/processteam.php on line 20
+[08-Apr-2025 11:20:44 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cnpj' in 'where clause' in /home2/wbmanu23/public_html/admin/myteam/processteam.php:25
+Stack trace:
+#0 /home2/wbmanu23/public_html/admin/myteam/processteam.php(25): mysqli->prepare('SELECT id FROM ...')
+#1 {main}
+  thrown in /home2/wbmanu23/public_html/admin/myteam/processteam.php on line 25
