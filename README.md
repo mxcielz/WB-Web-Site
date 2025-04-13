@@ -6,8 +6,8 @@ Este repositório contém o código-fonte do site da **WB Manutenção**, uma em
 
 O site foi desenvolvido com o objetivo de apresentar os serviços, certificações, informações da empresa e canal de contato com clientes de forma moderna, responsiva e eficiente.
 
-> ⚙️ Desenvolvido por: [Seu Nome] (responsável principal pelo front-end e back-end)  
-> 👥 Colaboração: [Nome do seu amigo]
+> ⚙️ Desenvolvido por: Maciel
+> 👥 Colaboração: Pedro Alonso
 
 ## 🧰 Tecnologias Utilizadas
 
